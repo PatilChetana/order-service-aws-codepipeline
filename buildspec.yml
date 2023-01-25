@@ -15,8 +15,3 @@ artifacts:
   files:
     - target/order-service.jar
   discard-paths: yes
-<<<<<<< HEAD
-
-
-=======
->>>>>>> f0fad3926b7f6fbb23ec12c0ebb14eb5454555fa
